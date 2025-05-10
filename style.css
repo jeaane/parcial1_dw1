@@ -1,0 +1,32 @@
+div {
+    background-color: #f8fdf9;
+    padding: 0px;
+    margin: 0px;
+    border-radius: px;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+#body {
+    background-color: #020302;
+    padding: 30px;
+    margin: 0px;
+    border-radius: 0px;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    color: #f6faf3;
+}
+.big-text {
+    font-size: 2em;
+    color: #f4f5f4;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+.medium-text {
+    font-size: 1.5em;
+    color: #0c0606;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+.main-title {
+    background-color: #20bb47;
+    padding: 30px;
+    margin: 0px;
+    border-radius: 0px;
+    text-shadow: 0cm 0cm 1555px #f6f0f4;
+}
